@@ -1,3 +1,4 @@
-Esta es un archivo de prueba para Git.
+Esta es un documento de prueba para Git. Este es el primer cambio.
+Se añadió texto.
 
 Hola.
